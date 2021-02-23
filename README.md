@@ -1,2 +1,3 @@
-# marianasimaremare
-tugas1
++ main() {
++   printf('Hello World');
++   }
